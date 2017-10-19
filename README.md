@@ -69,7 +69,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - Run `npm install -g scope-chains-closures`
 - [ ] Learn fundamental functional programming features of JavaScript in vanilla ES5.
   - `npm install -g functional-javascript-workshop`
-- [ ] Learn to use promises in JavaScript to handle async operations.
+- [x] Learn to use promises in JavaScript to handle async operations.
   - `npm install -g promise-it-wont-hurt`
   - Additional information: [Q.js](http://documentup.com/kriskowal/q/)
 - [ ] Learn Lo-Dash (fork of underscore) to handle your arrays and objects simple!
